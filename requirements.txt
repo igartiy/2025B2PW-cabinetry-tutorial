@@ -1,0 +1,24 @@
+cabinetry @ git+https://github.com/MoAly98/cabinetry@5d441aacb35705c5028ed198d17813fb160ca252
+iminuit==2.31.1
+ipykernel==6.29.5
+ipython==8.18.1
+ipython-genutils==0.2.0
+jupyter-events==0.12.0
+jupyter-lsp==2.3.0
+jupyter_client==7.4.9
+jupyter_core==5.8.1
+jupyter_server==2.17.0
+jupyter_server_terminals==0.5.3
+jupyterlab==4.4.7
+jupyterlab_pygments==0.3.0
+jupyterlab_server==2.27.3
+matplotlib==3.9.4
+matplotlib-inline==0.1.7
+notebook==6.5.7
+numpy==1.23.5
+pandas==2.2.1
+pyhf==0.7.6
+python-dotenv>=1.1.1,<2
+scipy==1.9.3
+tqdm==4.67.1
+uproot==5.6.6
