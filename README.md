@@ -1,7 +1,7 @@
 # 2025B2PW-cabinetry-tutorial
 Hands-on session for evaluation of systematic uncertainties in profile likelyhood fits with cabinetry and pyhf.
 
-# link to this repository
+### link to this repository:
 <img width="450" height="450" alt="изображение" src="https://github.com/user-attachments/assets/d747a305-3d13-4a4d-8b8b-7dd73c6bf8c8" />
 
 
